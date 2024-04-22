@@ -269,6 +269,10 @@ img {
   margin-left: auto;
 }
 
+.bio{
+  text-align: justify;
+}
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
