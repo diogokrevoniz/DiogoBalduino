@@ -273,6 +273,22 @@ img {
   text-align: justify;
 }
 
+.icon{
+  width: 20px; /* Ajuste conforme necessário */
+  height: auto;
+  margin-right: 10px; /* Ajusta o espaçamento entre o ícone e o texto */
+}
+
+.lattes {
+  display: flex;
+  align-items: center; /* Alinha os itens verticalmente */
+  margin-bottom: 10px; /* Ajusta o espaçamento entre as linhas */
+}
+.lattes a{
+  text-decoration: none;
+  color: inherit; 
+}
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
